@@ -127,3 +127,7 @@
 * Creando mis primeras pruebas con Python.
 * Introducción a TOX
 * Evaluación de conocimientos aprendidos en el curso. 
+
+
+## Recursos Adicionales
+* https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf
