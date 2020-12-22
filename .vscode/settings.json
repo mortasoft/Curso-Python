@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "C:\\Program Files\\Python39\\python.exe",
+    "python.pythonPath": "/bin/python3.9",
     "jupyter.jupyterServerType": "local"
 }
